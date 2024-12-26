@@ -1,4 +1,4 @@
 # Python Projects
-This is my first Git Repository.
+This is my Python Projects Repository.
 <br>
 Author-Mudassir Khan
